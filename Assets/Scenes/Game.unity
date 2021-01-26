@@ -1857,6 +1857,23 @@ MonoBehaviour:
     trackingRotationOffset: {x: 90, y: -90, z: 0}
   headConstraint: {fileID: 98811304}
   headBodyOffset: {x: 0, y: 0, z: 0}
+--- !u!114 &1088350498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1088350443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b7da021922c317409e1a5c46210ad56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  footOffset: {x: 0, y: 0.25, z: 0}
+  rightFootPosWeight: 1
+  rightFootRotWeight: 1
+  leftFootPosWeight: 1
+  leftFootRotWeight: 1
 --- !u!1 &1089850303
 GameObject:
   m_ObjectHideFlags: 0
